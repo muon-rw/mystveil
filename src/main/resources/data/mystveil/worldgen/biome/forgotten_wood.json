@@ -7,14 +7,8 @@
       "fog_color": 12243186,
       "water_color": 4159204,
       "water_fog_color": 329011,
-      "grass_color": 1625480,
-      "foliage_color": 1822843,
-      "music": {
-        "sound": "mystveil:",
-        "min_delay": 0,
-        "max_delay": 0,
-        "replace_current_music": true
-      }
+      "grass_color": 1622477,
+      "foliage_color": 1822843
     },
     "spawners": {},
     "spawn_costs": {},

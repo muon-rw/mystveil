@@ -15,13 +15,13 @@ import org.jetbrains.annotations.Nullable;
 @Environment(EnvType.CLIENT)
 public class ModDimensionEffects extends DimensionEffects {
     public ModDimensionEffects() {
-        super(Float.NaN, false, DimensionEffects.SkyType.NONE, false, true);
+        super(Float.NaN, false, DimensionEffects.SkyType.NORMAL, false, true);
     }
 
-    @Override
-    public float @Nullable [] getFogColorOverride(float skyAngle, float tickDelta) {
-        return null;
-    }
+    //@Override
+    //public float @Nullable [] getFogColorOverride(float skyAngle, float tickDelta) {
+    //    return null;
+    //}
 
     @Override
     public Vec3d adjustFogColor(Vec3d color, float sunHeight) {
