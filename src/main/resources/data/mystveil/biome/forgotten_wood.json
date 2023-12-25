@@ -1,0 +1,24 @@
+{
+    "temperature": 0.8,
+    "downfall": 0.4,
+    "has_precipitation": true,
+    "effects": {
+      "sky_color": 6415605,
+      "fog_color": 12243186,
+      "water_color": 4159204,
+      "water_fog_color": 329011,
+      "grass_color": 1625480,
+      "foliage_color": 1822843,
+      "music": {
+        "sound": "mystveil:",
+        "min_delay": 0,
+        "max_delay": 0,
+        "replace_current_music": true
+      }
+    },
+    "spawners": {},
+    "spawn_costs": {},
+    "carvers": {},
+    "features": []
+  }
+  
