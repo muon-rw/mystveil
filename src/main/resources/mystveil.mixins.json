@@ -3,7 +3,8 @@
 	"package": "dev.sacrum.mystveil.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"ExampleMixin",
+		"accessors.StructureTemplateAccessor"
 	],
 	"injectors": {
 		"defaultRequire": 1
